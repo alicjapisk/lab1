@@ -14,13 +14,13 @@ body {
   font-size: 28px;
   margin: 30px;
 }
-.header-secondary-left {
+.header-secondary-right {
   text-align: center;
   font-size: 28px;
   margin: 30px;
   margin-left: 35%;
 }
-.header-secondary-right {
+.header-secondary-left {
   text-align: left;
   font-size: 28px;
   margin: 30px;
